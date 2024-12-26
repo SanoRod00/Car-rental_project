@@ -14,3 +14,27 @@ color: #ffffff;
     font-size: 50px;
     font-weight: 548;
 }
+ .header-content{
+    display: flex;
+    justify-content: center;
+    padding: 20px 0px;
+ }
+.header {
+    display: flex;
+}
+.header-content-1 {
+width: 28%;
+}
+.header-content-2{
+width: 60%;
+}
+.header-content-3{
+width: 28%;
+}
+.header-content-3 button {
+    background-color: black;
+    color: white;
+    border: 1px solid #ffffff;
+    padding: 5px 15px;
+    border-radius: 12px;
+}
